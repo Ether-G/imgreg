@@ -5,10 +5,10 @@ lib/
 obj/
 
 # CMake files
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
-Makefile
+#CMakeCache.txt
+#CMakeFiles/
+#cmake_install.cmake
+#Makefile
 
 # Compiled Object files
 *.slo
